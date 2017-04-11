@@ -2,9 +2,15 @@ clear all
 close all
 warning off
 
+################################################################
+###            Active Noise Cancellation                     ###
+###            Recursive Lease Squares                       ###
+################################################################
+
+
 fs=44100;
-d = audioread('rolling_noise.wav');
-x = audioread('Heli_noise.wav');
+d = audioread('rolling_noise.wav');   ###Signal file with noise
+x = audioread('Heli_noise.wav');      ###Reference Noise
 d = d(1:2*fs,:);
 x = x(1:2*fs,:);
 filterOrder = 6;
