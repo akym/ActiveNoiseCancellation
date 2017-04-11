@@ -1,5 +1,5 @@
-# AcriveNoiseCancellation
-Acrive Noise Cancellation
+# ActiveNoiseCancellation
+Active Noise Cancellation
 
 
 Technical Paper available at Academia.edu
