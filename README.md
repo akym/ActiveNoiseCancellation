@@ -5,9 +5,7 @@ Active Noise Cancellation
 Technical Paper available within the repository.
 
 
-RLS_filter.m is the MATLAB file that does the Active Noise Cancellation, the reference files used are available to download at
-https://mega.nz/#!MjxlQLyA!zLklt57X4-xWTSYv2kaEkCItD3eAbOt-l3MChtjUnuU
-**I dont have rights for these sounds so please be careful while using them.
+RLS_filter.m is the MATLAB file that does the Active Noise Cancellation
 
 
 
